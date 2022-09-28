@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-$x^2 = 4$
+Software engineer
+-----------------
+
+* I'm based in Germany
 
 <!--
 **Granerkbrand/Granerkbrand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
