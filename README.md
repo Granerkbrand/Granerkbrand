@@ -2,9 +2,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ====================================================================================================================================
 
 # Software engineer
-🔭 I’m currently working on a knowledge base system <br>
-🌱 I'm currently learning Frontend stuff <br>
-⚡ Still forget to commit <br>
+🔭 I’m currently working on a interpreter <br>
+🌱 I'm currently learning how to write a simple interpreter <br>
 
 
 # 💻 Tech Stack:
